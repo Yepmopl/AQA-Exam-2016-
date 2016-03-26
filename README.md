@@ -3,7 +3,7 @@ The code given for the BattleShips Case Study June 2016
 
 ##Things to do:
 
-* Show name of ship when hit.
+* Show name of ship when hit. **DONE!**
 
 * Run training game.
 
