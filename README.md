@@ -7,7 +7,7 @@ The code given for the BattleShips Case Study June 2016
 
 * Run training game.
 
-* Validate user input.
+* Validate user input. **DONE!**
 
 Maybe more...
 
